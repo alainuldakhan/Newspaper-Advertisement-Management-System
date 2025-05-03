@@ -1,8 +1,8 @@
-# Newspaper-Advertisement-Management-System-ASP.NET
-Our final diploma project in Computer Science, Satbayev University, Almaty, Kazakhstan
+# Newspaper-Advertisement-Management-System
+Our final graduate project in Computer Science, Satbayev University, Almaty, Kazakhstan
 
 # 📌 Description  
-This project is a newspaper advertisement management system developed on **ASP.NET**. The system allows newspaper agencies to manage advertising slots, and companies to book advertising spots online.  
+This project is a newspaper advertisement management system developed on **ASP.NET** and **React**. The system allows newspaper agencies to manage advertising slots, and companies to book advertising spots online.  
 
 ## 🚀 Functionality  
 - 📅 Online booking of advertising slots  
@@ -13,6 +13,6 @@ This project is a newspaper advertisement management system developed on **ASP.N
 
 ## 🛠️ Technologies  
 - **Backend:** ASP.NET Core  
-- **Frontend:** HTML, CSS, JavaScript  
+- **Frontend:** React
 - **Database:** MS SQL Server  
-- **Payment systems:** ....
+- **Payment systems:** Stripe
