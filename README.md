@@ -7,7 +7,7 @@ This project is a newspaper advertisement management system developed on **ASP.N
 ## 🚀 Functionality  
 - 📅 Online booking of advertising slots  
 - 💳 Online payment support  
-- User management (administrator, employees, clients)  
+- User management (administrator, editor, advertiser)  
 - 📊 - Generation of reports on advertising, user payments  
 - 🔍 Ad search and filtering  
 
