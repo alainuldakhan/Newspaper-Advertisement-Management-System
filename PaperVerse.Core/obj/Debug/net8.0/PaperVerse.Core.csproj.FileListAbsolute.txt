@@ -1,0 +1,15 @@
+C:\Users\alain\OneDrive\Documents\graduate\project\backend\PaperVerseBackend\PaperVerse.Core\bin\Debug\net8.0\PaperVerse.Core.deps.json
+C:\Users\alain\OneDrive\Documents\graduate\project\backend\PaperVerseBackend\PaperVerse.Core\bin\Debug\net8.0\PaperVerse.Core.runtimeconfig.json
+C:\Users\alain\OneDrive\Documents\graduate\project\backend\PaperVerseBackend\PaperVerse.Core\bin\Debug\net8.0\PaperVerse.Core.dll
+C:\Users\alain\OneDrive\Documents\graduate\project\backend\PaperVerseBackend\PaperVerse.Core\bin\Debug\net8.0\PaperVerse.Core.pdb
+C:\Users\alain\OneDrive\Documents\graduate\project\backend\PaperVerseBackend\PaperVerse.Core\obj\Debug\net8.0\PaperVerse.Core.csproj.AssemblyReference.cache
+C:\Users\alain\OneDrive\Documents\graduate\project\backend\PaperVerseBackend\PaperVerse.Core\obj\Debug\net8.0\PaperVerse.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alain\OneDrive\Documents\graduate\project\backend\PaperVerseBackend\PaperVerse.Core\obj\Debug\net8.0\PaperVerse.Core.AssemblyInfoInputs.cache
+C:\Users\alain\OneDrive\Documents\graduate\project\backend\PaperVerseBackend\PaperVerse.Core\obj\Debug\net8.0\PaperVerse.Core.AssemblyInfo.cs
+C:\Users\alain\OneDrive\Documents\graduate\project\backend\PaperVerseBackend\PaperVerse.Core\obj\Debug\net8.0\PaperVerse.Core.csproj.CoreCompileInputs.cache
+C:\Users\alain\OneDrive\Documents\graduate\project\backend\PaperVerseBackend\PaperVerse.Core\obj\Debug\net8.0\PaperVerse.Core.sourcelink.json
+C:\Users\alain\OneDrive\Documents\graduate\project\backend\PaperVerseBackend\PaperVerse.Core\obj\Debug\net8.0\PaperVerse.Core.dll
+C:\Users\alain\OneDrive\Documents\graduate\project\backend\PaperVerseBackend\PaperVerse.Core\obj\Debug\net8.0\refint\PaperVerse.Core.dll
+C:\Users\alain\OneDrive\Documents\graduate\project\backend\PaperVerseBackend\PaperVerse.Core\obj\Debug\net8.0\PaperVerse.Core.pdb
+C:\Users\alain\OneDrive\Documents\graduate\project\backend\PaperVerseBackend\PaperVerse.Core\obj\Debug\net8.0\PaperVerse.Core.genruntimeconfig.cache
+C:\Users\alain\OneDrive\Documents\graduate\project\backend\PaperVerseBackend\PaperVerse.Core\obj\Debug\net8.0\ref\PaperVerse.Core.dll

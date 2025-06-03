@@ -1,0 +1,16 @@
+C:\Users\alain\OneDrive\Documents\graduate\project\backend\PaperVerseBackend\PaperVerse.Application\bin\Debug\net8.0\PaperVerse.Application.deps.json
+C:\Users\alain\OneDrive\Documents\graduate\project\backend\PaperVerseBackend\PaperVerse.Application\bin\Debug\net8.0\PaperVerse.Application.runtimeconfig.json
+C:\Users\alain\OneDrive\Documents\graduate\project\backend\PaperVerseBackend\PaperVerse.Application\bin\Debug\net8.0\PaperVerse.Application.dll
+C:\Users\alain\OneDrive\Documents\graduate\project\backend\PaperVerseBackend\PaperVerse.Application\bin\Debug\net8.0\PaperVerse.Application.pdb
+C:\Users\alain\OneDrive\Documents\graduate\project\backend\PaperVerseBackend\PaperVerse.Application\bin\Debug\net8.0\PaperVerse.Core.dll
+C:\Users\alain\OneDrive\Documents\graduate\project\backend\PaperVerseBackend\PaperVerse.Application\bin\Debug\net8.0\PaperVerse.Core.pdb
+C:\Users\alain\OneDrive\Documents\graduate\project\backend\PaperVerseBackend\PaperVerse.Application\obj\Debug\net8.0\PaperVerse.Application.csproj.AssemblyReference.cache
+C:\Users\alain\OneDrive\Documents\graduate\project\backend\PaperVerseBackend\PaperVerse.Application\obj\Debug\net8.0\PaperVerse.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alain\OneDrive\Documents\graduate\project\backend\PaperVerseBackend\PaperVerse.Application\obj\Debug\net8.0\PaperVerse.Application.csproj.CoreCompileInputs.cache
+C:\Users\alain\OneDrive\Documents\graduate\project\backend\PaperVerseBackend\PaperVerse.Application\obj\Debug\net8.0\PaperVerse.Application.sourcelink.json
+C:\Users\alain\OneDrive\Documents\graduate\project\backend\PaperVerseBackend\PaperVerse.Application\obj\Debug\net8.0\PaperVer.8B0BE80C.Up2Date
+C:\Users\alain\OneDrive\Documents\graduate\project\backend\PaperVerseBackend\PaperVerse.Application\obj\Debug\net8.0\PaperVerse.Application.dll
+C:\Users\alain\OneDrive\Documents\graduate\project\backend\PaperVerseBackend\PaperVerse.Application\obj\Debug\net8.0\refint\PaperVerse.Application.dll
+C:\Users\alain\OneDrive\Documents\graduate\project\backend\PaperVerseBackend\PaperVerse.Application\obj\Debug\net8.0\PaperVerse.Application.pdb
+C:\Users\alain\OneDrive\Documents\graduate\project\backend\PaperVerseBackend\PaperVerse.Application\obj\Debug\net8.0\PaperVerse.Application.genruntimeconfig.cache
+C:\Users\alain\OneDrive\Documents\graduate\project\backend\PaperVerseBackend\PaperVerse.Application\obj\Debug\net8.0\ref\PaperVerse.Application.dll
